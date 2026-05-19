@@ -1,5 +1,5 @@
 ---
-name: repurposer
+name: linkedin-generator
 description: Extracts LinkedIn posts from a long-form newsletter, or generates LinkedIn posts from a general idea and target audience. Trigger phrases — "repurpose this for LinkedIn", "turn my newsletter into LinkedIn posts", "generate LinkedIn posts from my newsletter", "create LinkedIn content from this", "pull LinkedIn posts from this", "make LinkedIn posts from my newsletter", "write LinkedIn posts from this", "create LinkedIn posts from this idea", "turn this idea into LinkedIn posts". Trigger whenever the user wants to convert newsletter content or a general idea specifically into LinkedIn format.
 ---
 
