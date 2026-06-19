@@ -63,17 +63,26 @@ Be honest but not inflationary. If three of six fields are already solid, say so
 
 Pay special attention to soft adjectives: "clean," "modern," "professional," "simple," "sleek," "minimal," "premium." These feel like direction but carry almost no information to a build tool. Quote them and flag them for Step 2.
 
-## Step 2 — Clarify
+## Step 2 — Clarify (Relentless Interview)
 
-Ask only the **2–4 questions** that close the most damaging gaps. Don't ask about everything — prioritize the gaps most likely to produce a bad build. Lead with References & sources and any quoted ambiguous word, since those two move the output the most.
+This is a multi-turn interview. Do not ask all your questions at once — ask one question per turn, wait for the answer, then decide what to ask next based on what's still unresolved. Keep going until every gap in the six fields is closed and there is genuine shared understanding of every piece of functionality required. There is no fixed question limit. The interview ends when the idea is build-ready — not before.
+How to run the interview:
 
-Guidelines:
-- Ask one focused cluster at a time; let the user answer before you push further if needed.
-- When you flag a vague word, ask for the concrete version: "You said 'clean' — point me at one site that looks the way you mean, or name what to remove to get there."
-- Push back on scope creep. If the idea is trying to do five jobs, help pick the one to prove first.
-- Don't silently fill a gap with your own assumption. If you must assume to keep moving, state the assumption out loud and let the user correct it.
+One question per turn, always. Never stack questions. Pick the single most important unresolved gap and ask only about that.
 
-Stop as soon as the six fields are sharp enough to build from. More questions past that point is just friction.
+Lead with References & sources and any quoted ambiguous word. These two move build-tool output the most, so surface them early.
+
+Name vague words explicitly. When you see "clean," "modern," "simple," "sleek," or any soft adjective, quote it and ask for the concrete version: "You said 'clean' — point me at one site that looks the way you mean, or describe what to remove to get there."
+
+Push back on scope creep. If the idea is trying to do five jobs, keep pressing until the user has committed to the one thing this version must prove. Don't let ambiguity about scope slide through.
+
+Never silently fill a gap. If you would have to guess to move forward, stop and ask instead. A silent assumption defeats the whole point.
+
+Track what's resolved. After each answer, mentally update your six-field audit. Continue until all six fields are genuinely sharp — not just plausible.
+
+Acknowledge progress. When an answer resolves something meaningful, say so briefly before asking the next question. This shows the user the interview is converging, not spinning.
+
+Call it done clearly. When all six fields are resolved, say so explicitly — "I have everything I need" — and move to Step 3. Don't ask one more question just to seem thorough.
 
 ## Step 3 — Deliver
 
